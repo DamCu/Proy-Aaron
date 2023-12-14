@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Proy-Aaronnpm/static/css/main.19a7f6e0.css",
-    "main.js": "/Proy-Aaronnpm/static/js/main.649caec3.js",
-    "static/js/787.1c982f88.chunk.js": "/Proy-Aaronnpm/static/js/787.1c982f88.chunk.js",
-    "index.html": "/Proy-Aaronnpm/index.html",
-    "main.19a7f6e0.css.map": "/Proy-Aaronnpm/static/css/main.19a7f6e0.css.map",
-    "main.649caec3.js.map": "/Proy-Aaronnpm/static/js/main.649caec3.js.map",
-    "787.1c982f88.chunk.js.map": "/Proy-Aaronnpm/static/js/787.1c982f88.chunk.js.map"
+    "main.css": "/Proy-Aaron/static/css/main.19a7f6e0.css",
+    "main.js": "/Proy-Aaron/static/js/main.29ab40de.js",
+    "static/js/787.1c982f88.chunk.js": "/Proy-Aaron/static/js/787.1c982f88.chunk.js",
+    "index.html": "/Proy-Aaron/index.html",
+    "main.19a7f6e0.css.map": "/Proy-Aaron/static/css/main.19a7f6e0.css.map",
+    "main.29ab40de.js.map": "/Proy-Aaron/static/js/main.29ab40de.js.map",
+    "787.1c982f88.chunk.js.map": "/Proy-Aaron/static/js/787.1c982f88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19a7f6e0.css",
-    "static/js/main.649caec3.js"
+    "static/js/main.29ab40de.js"
   ]
 }
